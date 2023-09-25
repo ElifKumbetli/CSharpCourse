@@ -1,0 +1,5 @@
+C:\Users\elifk\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csproj.AssemblyReference.cache
+C:\Users\elifk\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\elifk\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfo.cs
+C:\Users\elifk\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csproj.CoreCompileInputs.cache

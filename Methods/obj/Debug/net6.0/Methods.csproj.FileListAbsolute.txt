@@ -1,0 +1,4 @@
+C:\Users\elifk\source\repos\CSharpCourse\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\source\repos\CSharpCourse\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\elifk\source\repos\CSharpCourse\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\elifk\source\repos\CSharpCourse\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache

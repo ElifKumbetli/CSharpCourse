@@ -1,0 +1,14 @@
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\net6.0\TypesAndVeriables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\net6.0\TypesAndVeriables.AssemblyInfoInputs.cache
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\net6.0\TypesAndVeriables.AssemblyInfo.cs
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\net6.0\TypesAndVeriables.csproj.CoreCompileInputs.cache
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\bin\Debug\net6.0\TypesAndVeriables.exe
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\bin\Debug\net6.0\TypesAndVeriables.deps.json
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\bin\Debug\net6.0\TypesAndVeriables.runtimeconfig.json
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\bin\Debug\net6.0\TypesAndVeriables.dll
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\bin\Debug\net6.0\TypesAndVeriables.pdb
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\net6.0\TypesAndVeriables.dll
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\net6.0\refint\TypesAndVeriables.dll
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\net6.0\TypesAndVeriables.pdb
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\net6.0\TypesAndVeriables.genruntimeconfig.cache
+C:\Users\elifk\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\net6.0\ref\TypesAndVeriables.dll
