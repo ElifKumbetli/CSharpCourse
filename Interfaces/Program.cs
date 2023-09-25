@@ -4,6 +4,15 @@
     {
         static void Main(string[] args)
         {
+           //InterfacesIntro();
+           CustomerManager customerManager = new CustomerManager();
+            customerManager.Add(new OracleServerCustomerDal());
+
+            Console.ReadLine();
+        }
+
+        private static void InterfacesIntro()
+        {
             PersonManager manager = new PersonManager();
             Customer customer = new Customer
             {
@@ -11,7 +20,9 @@
                 FirstName = "Engin",
                 LastName = "Demiroğ",
                 Address = "Ankara"
-            }; 
+            };
+
+
 
             manager.Add(customer);
 
@@ -19,15 +30,13 @@
             {
                 Id = 1,
                 FirstName = "Derin",
-                
+
                 LastName = "Demiroğ",
                 Departmant = "Computer Sciences"
             };
 
-          
-            manager.Add(student);
 
-            Console.ReadLine();
+            manager.Add(student);
         }
     }
 
